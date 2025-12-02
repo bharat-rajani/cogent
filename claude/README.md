@@ -2,7 +2,7 @@
 
 **Found value in these resources?**
 
-👉 **Buy me a coffee:** https://coff.ee/wirasm
+👉 **Buy me a coffee:** https://buymeacoffee.com/bharatrajani
 
 I spent a considerable amount of time creating these resources and prompts. If you find value in this project, please consider buying me a coffee to support my work.
 

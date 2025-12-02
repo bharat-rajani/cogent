@@ -57,7 +57,7 @@ May or may not be added, ignore the previous review if not specified.
 
 8. **Documentation**
    - Clear README with setup instructions
-   - CLAUDE.md is up to date with any new important utils, dependencies etc for future cluade code instances
+   - AGENTS.md is up to date with any new important utils, dependencies etc for future cursor chat instances
 
 ## Review Output
 

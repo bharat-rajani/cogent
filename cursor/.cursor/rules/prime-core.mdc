@@ -3,13 +3,13 @@ globs:
 alwaysApply: false
 ---
 
-> Command for priming Claude Code with core knowledge about your project
+> Command for priming Cursor Agent with core knowledge about your project
 
-# Prime Context for Claude Code
+# Prime Context for Cursor Agent
 
 Use the command `tree` to get an understanding of the project structure.
 
-Start with reading the CLAUDE.md file if it exists to get an understanding of the project.
+Start with reading the AGENTS.md file if it exists to get an understanding of the project.
 
 Read the README.md file to get an understanding of the project.
 

@@ -3,12 +3,12 @@ globs:
 alwaysApply: false
 ---
 
-claude
+cursor agent
 ** Create a comprehensive task list in PRPs/checklist.md for building our hackathon project based on $ARGIMENTS
 
 Ingest the infomration then dig deep into our existing codebase, When done ->
 
-ULTRATHINK about the product task and create the plan based on claude.md and create detailed tasks following this principle:
+ULTRATHINK about the product task and create the plan based on AGENTS.md and create detailed tasks following this principle:
 
 ### list of tasks to be completed to fullfill the PRP in the order they should be completed using infomration dense keywords
 
